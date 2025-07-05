@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#_5a {
+  font-family: Tahoma;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#_5b_1 {
+  font-family: Arial;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+#_5b_2 {
+  font-family: Arial;
+  font-size: 16px;
+  color: red;
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+#_5c_1 {
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+#_5c_2 {
+  font-family: Verdana;
+  font-family: 16px;
+  color: grey;
+  margin-bottom: 13px;
+}
+
+#_5c_3 {
+  font-family: Verdana;
+  font-size: 16px;
+  width: 280px;
+  margin-bottom: 25px;
+}
+
+#getStarted-btn {
+  background-color: green;
+  color: white;
+  font-family: Verdana;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+#_5d_1 {
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+#_5d_2,
+#_5d_3 {
+  font-family: Arial;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+#_5d_3 {
+  color: blue;
+  margin-bottom: 30px;
+}
+
+#_5d_3:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#_5e_1 {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  color: orange;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+#_5e_2 {
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+#_5e_3 {
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+#_5e_4 {
+  font-family: Arial;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+#_5e_5 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#buy-btn {
+  background-color: blue;
+  color: white;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+#_5f_1 {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+#_5f_11 {
+  color: grey;
+  font-weight: normal;
+}
+
+#_5f_2 {
+  font-family: Arial;
+  font-size: 18px;
+  width: 550px;
+  margin-bottom: 20px;
+}
+
+#_5f_3 {
+  font-family: Arial;
+  font-size: 18px;
+  width: 550px;
+  margin-bottom: 30px;
+}
+
+#_5f_31 {
+  color: dodgerblue;
+  cursor: pointer;
+}
+
+#_5g_1 {
+  font-family: Arial;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+#_5g_11 {
+  font-size: 16px;
+  color: grey;
+}
+
+#_5g_2 {
+  color: green;
+  font-family: Arial;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+#_5g_3 {
+  font-family: Arial;
+  font-size: 16px;
+  color: grey;
+  margin-bottom: 30px;
+}
+
+#_5g_31 {
+  color: red;
+}
