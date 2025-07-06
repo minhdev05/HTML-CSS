@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+
+.account-container {
+  margin-top: 20px;
+  margin-left: 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  width: 350px;
+}
+
+.img-container,
+.info-container,
+.btn-container {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.info-container {
+  width: 180px;
+}
+
+.user-avatar {
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 50%;
+  padding: 15px 10px;
+}
+
+.username,
+.user-desc,
+.user-fame {
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+
+.username {
+  font-weight: bold;
+}
+
+.user-desc,
+.user-fame {
+  color: rgb(96, 96, 96);
+}
+
+.btn-container {
+  margin-right: 10px;
+}
+
+.follow-btn {
+  background-color: dodgerblue;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.container-video {
+  display: block;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.container-img,
+.container-info {
+  display: inline-block;
+}
+
+.container-img {
+  width: 250px;
+  margin-right: 8px;
+}
+
+.thumbnails {
+  width: 100%;
+}
+
+.container-info {
+  width: 250px;
+  vertical-align: top;
+}
+
+.video-title,
+.video-author,
+.video-stats {
+  width: 100%;
+}
+
+.video-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.video-author {
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 5px;
+}
+
+.video-stats {
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+}
+
+.container-account {
+  display: inline-block;
+  margin-left: 20px;
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.container-img2 {
+  margin-bottom: 10px;
+}
+
+.user-avatar2 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.container-info2 {
+  margin-left: 8px;
+}
+
+.username2 {
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.container-friend-info {
+  margin-bottom: 8px;
+}
+
+.friend-avatar,
+.friend-desc {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.friend-avatar {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  object-position: center;
+  border: none;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.friend-desc {
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+}
+
+.container-btn {
+  margin-bottom: 10px;
+}
+
+.add-friend-btn {
+  background-color: dodgerblue;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
