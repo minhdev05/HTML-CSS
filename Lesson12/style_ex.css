@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-bottom: 1000px;
+}
+
+.emails-container {
+  width: 380px;
+  margin-left: 50px;
+  font-family: Arial;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.box {
+  margin-bottom: 20px;
+  color: grey;
+  font-size: 15px;
+}
+
+.email {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.sender-avatar {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.email-content {
+  width: 330px;
+}
+
+.email-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3px;
+}
+
+.email-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.send-time {
+  font-size: 15px;
+  color: grey;
+}
+
+.email-intro {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.email-body {
+  font-size: 15px;
+  color: grey;
+}
+
+.container-12f {
+  display: flex;
+  flex-direction: row;
+  width: 380px;
+  margin-left: 50px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  padding: 10px 10px;
+}
+
+.user-avatar-12f {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.right-12f {
+  flex: 1;
+}
+
+.p1-12f {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.p1-12f span {
+  color: grey;
+  font-size: 17px;
+  font-weight: normal;
+}
+
+.p2-12f {
+  font-family: Arial;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.div1-12f {
+  display: flex;
+}
+
+.div1-left-12f {
+  background-color: rgb(197, 191, 191);
+  width: 90px;
+  height: 80px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.div1-right-12f {
+  width: 210px;
+  padding: 8px 10px;
+  border: solid 1px rgb(197, 191, 191);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.p3-12f {
+  font-family: Arial;
+  font-size: 15px;
+  color: grey;
+  margin-bottom: 5px;
+}
+
+.p4-12f {
+  font-family: Arial;
+  font-size: 15px;
+}

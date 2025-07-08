@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-bottom: 1000px;
+}
+
+.container_12e {
+  width: 350px;
+  border: solid 1px rgb(96, 96, 96);
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin-left: 30px;
+}
+
+.item_12e {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.item_12e p {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+.item_12e button {
+  background-color: dodgerblue;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 5px 13px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.container_12f {
+  background-color: blueviolet;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-section {
+  width: 50px;
+  margin-left: 20px;
+}
+
+.left-section p {
+  color: white;
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.middle-section {
+  flex: 1;
+  margin-left: 50px;
+  margin-right: 50px;
+  max-width: 800px;
+}
+
+.middle-section .search-bar {
+  width: 80%;
+  padding: 10px 20px;
+  border: solid 1px grey;
+  border-radius: 20px;
+}
+
+.right-section {
+  width: 100px;
+  margin-right: 10px;
+}
+
+.right-section .download-btn {
+  background-color: blueviolet;
+  color: white;
+  font-size: 16px;
+  border: solid 1.5px white;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.user-container {
+  margin-left: 30px;
+}
+
+.user {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.user-img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+}
+
+.user-info {
+  padding-left: 10px;
+  padding-right: 150px;
+}
+
+.user-name {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.user-job,
+.user-fame {
+  font-family: Arial;
+  font-size: 15px;
+  color: grey;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.follow-btn {
+  background-color: dodgerblue;
+  color: white;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
